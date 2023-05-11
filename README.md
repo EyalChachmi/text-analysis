@@ -1,5 +1,4 @@
 # text-analysis
-Text analysis assignment given in Machine learning
 final assignment in the course Machine Learning. In this assignment I was asked to predict the story teller's gender whether is a male or a female, according to the store they wrote.
 
 I went through cleaning the text, Including Stemming with prefixes and suffixes removal so I'll have better results wuth a we clean text 
