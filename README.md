@@ -1,5 +1,5 @@
 # text-analysis
-final assignment in the course Machine Learning. In this assignment I was asked to predict the story teller's gender whether is a male or a female, according to the store they wrote.
+final assignment in the course Machine Learning. In this assignment I was asked to predict the story teller's gender whether is a male or a female, according to the story they wrote.
 
 I went through cleaning the text, Including Stemming with prefixes and suffixes removal so I'll have better results with a clean text 
 Then used the CountVectorizer to have a transformation to feature vectors.
